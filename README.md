@@ -8,7 +8,7 @@ Tracking my learning path in cybersecurity, documenting milestones, tools, and s
 - Installed **Ubuntu VM** in VirtualBox  
 - Learned **5 basic Linux commands**  
 - Added initial **README** to track progress  
-
+ ![Linux](https://img.shields.io/badge/Linux-Basic-blue)
 ---
 
 ## 📅 Day 2 – Linux Practice
@@ -21,11 +21,17 @@ Tracking my learning path in cybersecurity, documenting milestones, tools, and s
 
 ### 🎯 Achievements
 - Completed **5 TryHackMe rooms**  
-- Earned **1 badge** 🏅  
+- Earned **1 badge** 🏅
+- ![TryHackMe](https://img.shields.io/badge/TryHackMe-5%20Rooms-green)
+
 
 ### 💻 Kali Linux Setup
 - Installed **Kali Linux** in VirtualBox  
-- Connected to **TryHackMe VPN** successfully  
+- Connected to **TryHackMe VPN** successfully
+ 
+![VPN](https://img.shields.io/badge/VPN-Connected-green)
+
+
 
 ### 🎨 Terminal Customization
 - Enabled **colorful Bash prompt**  
@@ -35,7 +41,8 @@ Tracking my learning path in cybersecurity, documenting milestones, tools, and s
 - Linux command-line basics  
 - Virtual machine management  
 - VPN connection & troubleshooting  
-- Terminal productivity customization  
+- Terminal productivity customization
+
 
 ### 🚀 Next Steps
 - Complete more **TryHackMe rooms**  
